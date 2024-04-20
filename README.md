@@ -12,7 +12,7 @@ Download latest compiled ROM from: ...
 
 You will need an MSX emulator to play the game on a PC, for example OpenMSX: http://openmsx.org
 
-...
+<img src="https://raw.githubusercontent.com/santiontanon/westen-ex/main/media/Portada-small.png" alt="cover" width="800"/>
 
 ## Introduction
 
@@ -25,9 +25,12 @@ Westen House EX is an isometric adventure that has the goal of exploring the pos
 
 Screenshots:
 
-<img src="https://raw.githubusercontent.com/santiontanon/westen/main/media/screen1.png" alt="title" width="400"/> <img src="https://raw.githubusercontent.com/santiontanon/westen/main/media/screen2.png" alt="in game 1" width="400"/> 
 
-<img src="https://raw.githubusercontent.com/santiontanon/westen/main/media/screen3.png" alt="in game 2" width="400"/> <img src="https://raw.githubusercontent.com/santiontanon/westen/main/media/screen4.png" alt="in game 2" width="400"/>
+<img src="https://raw.githubusercontent.com/santiontanon/westen-ex/main/media/ss1.png" alt="title" width="400"/> <img src="https://raw.githubusercontent.com/santiontanon/westen-ex/main/media/ss2.png" alt="in game 1" width="400"/> 
+
+<img src="https://raw.githubusercontent.com/santiontanon/westen-ex/main/media/ss3.png" alt="in game 2" width="400"/> <img src="https://raw.githubusercontent.com/santiontanon/westen-ex/main/media/ss4.png" alt="in game 3" width="400"/> 
+
+<img src="https://raw.githubusercontent.com/santiontanon/westen-ex/main/media/ss5.png" alt="in game 4" width="400"/> <img src="https://raw.githubusercontent.com/santiontanon/westen-ex/main/media/ss6.png" alt="in game 5" width="400"/> 
 
 
 ### Game Goal
