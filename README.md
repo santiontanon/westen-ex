@@ -8,7 +8,7 @@ Beta testing: Jordi Sureda, Araubi, Manuel Pazos
 
 
 
-Download latest compiled ROM from: ...
+Download latest compiled ROM from: https://github.com/santiontanon/westen-ex/releases/tag/physical
 
 You will need an MSX emulator to play the game on a PC, for example OpenMSX: http://openmsx.org
 
