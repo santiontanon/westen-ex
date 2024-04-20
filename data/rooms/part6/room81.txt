@@ -1,0 +1,16 @@
+20 6 6 14
+blue_tiles_border
+ossuary_nw
+3
+door-se 8 0 80 1
+door-sw 2 0 82 0
+door-right-brick 2 0 89 1
+8
+column-blue 2 2 0
+column-blue 7 2 0
+column-blue 2 15 0
+column-blue 7 15 0
+torch 1 5 28
+torch 1 11 28
+door-prison-entrance-ne 4 1 0
+log-book 2 8 0

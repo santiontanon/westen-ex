@@ -1,0 +1,28 @@
+14 5 12 10
+white_tiles_border
+white_stone
+1
+door-gothic-ne 6 0 84 1
+22
+column 2 2 0
+column 2 11 0
+column 13 2 0
+column 13 11 0
+coffin-1 2 6 8
+coffin-2 2 5 8
+blue-brick 2 4 0
+blue-brick 2 6 0
+blue-brick 2 8 0
+stairs-nw-2 4 6 0
+writing-table-2 12 5 0
+writing-table-1 12 6 0
+chair-left 10 6 0
+chest 10 11 0
+chest 7 11 0
+bookstack 13 9 0
+bookstack 12 3 0
+coin-pile 4 2 0
+coin-pile 6 2 0
+coin-pile 4 11 0
+mirror-ne 4 1 12
+mirror-clue 13 7 14

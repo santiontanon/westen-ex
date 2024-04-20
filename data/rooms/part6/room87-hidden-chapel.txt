@@ -1,0 +1,20 @@
+16 4 14 14
+blue_tiles_border
+ossuary_ne
+2
+door-se 6 0 84 3
+door-left-brick 6 0 95 1
+13
+column-blue 2 2 0
+column-blue 2 15 0
+column-blue 15 2 0
+column-blue 15 15 0
+vlad-ritual 7 6 0
+torch 5 4 0
+torch 5 8 0
+torch 9 3 0
+torch 9 11 0
+torch 12 8 0
+bones1 3 14 0
+bones2 13 10 0
+bones3 13 3 0

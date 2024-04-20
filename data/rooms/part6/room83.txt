@@ -1,0 +1,17 @@
+13 5 12 6
+white_tiles_border
+white_stone
+2
+door-gothic-se 4 0 82 1
+door-gothic-nw 4 0 84 0
+10
+column 2 2 0
+column 2 7 0
+column 13 2 0
+column 13 7 0
+suit-of-armor-ne 4 2 0
+suit-of-armor-ne 11 2 0
+suit-of-armor-sw 4 7 0
+suit-of-armor-sw 11 7 0
+banner-ne 7 1 0
+stool 8 2 0

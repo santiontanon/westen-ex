@@ -1,0 +1,11 @@
+16 4 14 14
+blue_tiles_border
+blue_bricks
+3
+door-se 12 0 91 1
+door-right-brick 6 0 93 0
+door-sw 6 0 94 0
+3
+door-prison-franky-ne 8 1 0
+switch 2 8 0
+skeleton 7 7 0

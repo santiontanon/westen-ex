@@ -1,0 +1,21 @@
+16 4 14 14
+white_tiles_border
+white_stone_nw
+2
+door-gothic-ne 8 0 81 1
+door-gothic-nw 8 0 83 0
+14
+column 2 2 0
+column 2 6 0
+column 2 11 0
+column 2 15 0
+column 15 2 0
+column 15 15 0
+vlad-statue 8 8 4
+red-carpet 8 8 255
+torch 1 4 28
+torch 1 11 28
+platform1 7 7 0
+platform2 9 7 0
+platform1 7 9 0
+platform2 9 9 0

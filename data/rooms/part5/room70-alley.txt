@@ -1,0 +1,15 @@
+16 2 16 16
+street2
+no-wall
+1
+door-empty-se 13 0 69 1
+9
+tall-crate 5 9 0
+crate 5 11 0
+tall-crate 5 14 0
+crate 5 9 9
+barrel 5 16 0
+barrel 7 16 0
+barrel 9 16 0
+beggar 9 9 0
+beggar-bag 11 9 0

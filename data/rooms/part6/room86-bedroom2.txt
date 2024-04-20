@@ -1,0 +1,27 @@
+14 5 12 10
+white_tiles_border
+white_stone
+1
+door-gothic-sw 6 0 84 2
+21
+column 2 2 0
+column 2 11 0
+column 13 2 0
+column 13 11 0
+coffin-1 12 6 8
+coffin-2 12 5 8
+blue-brick 12 4 0
+blue-brick 12 6 0
+blue-brick 12 8 0
+bookshelves2-nw 2 4 0
+bookshelves2-nw 2 6 0
+bookshelves2-nw 2 8 0
+couch 5 4 0
+table-1 4 8 0
+table-2 6 8 0
+banner-ne 4 1 0
+banner-ne 10 1 0
+bookstack 8 4 0
+coin-pile 11 2 0
+coin-pile 9 2 0
+puzzle-box 6 8 8

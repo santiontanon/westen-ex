@@ -1,0 +1,29 @@
+# java -jar java/mdl.jar -equ LANGUAGE=0 src/main.asm -po
+java -jar java/mdl.jar -equ LANGUAGE=0 src/main.asm -bin westen-ex.rom -st westen.sym -asm+:html westen-ex.html
+
+TOTALUSED=0
+for IDX in "s_0_1" "_2" "_3" "_4" "_5" "_6" "_7" "_8" "_9" "_10" "_11" "_12" "_13" "_14" "_15"
+do
+	PAGESIZE=8192
+	if [[ $IDX == s* ]]
+	then
+		PAGESIZE=16384
+	fi
+	START="$(grep start_of_page${IDX} westen.sym | cut -d ' ' -f3- | cut -c3-)"
+	END="$(grep end_of_page${IDX} westen.sym | cut -d ' ' -f3- | cut -c3-)"
+	STARTDEC="$(echo $((16#$START)))"
+	ENDDEC="$(echo $((16#$END)))"
+	USED=$((ENDDEC-STARTDEC))
+	FREE=$((PAGESIZE-USED))
+	echo "page${IDX}: #${START}-#${END} using ${USED} (free: ${FREE})"
+	TOTALUSED=$((TOTALUSED+USED))
+done
+
+
+FREE=$((128*1024 - TOTALUSED))
+echo "total used: ${TOTALUSED} (free: ${FREE})"
+
+END_OF_RAM="$(grep END_OF_RAM westen.sym | cut -d ' ' -f3- | cut -c3-)"
+END_OF_RAMDEC="$(echo $((16#$END_OF_RAM)))"
+FREE_RAM=$((62080 - END_OF_RAMDEC))
+echo "free RAM: ${FREE_RAM}"

@@ -1,0 +1,17 @@
+16 3 16 16
+street1
+no-wall
+5
+door-empty-nw 15 0 64 1
+door-empty-nw 5 0 70 0
+door-empty-ne 3 0 71 0
+door-empty-ne 7 0 71 1
+door-empty-ne 10 0 71 2
+7
+barrel 2 3 0
+doorstep 5 15 0 
+door-left-no-key 4 15 6 
+streetlamp 16 16 0
+streetlamp 16 4 0
+streetlamp-wall 4 11 24
+street-corner 3 11 0

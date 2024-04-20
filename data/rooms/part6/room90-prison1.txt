@@ -1,0 +1,30 @@
+16 3 16 16
+blue_tiles_border
+blue_bricks
+2
+door-se 14 0 89 0
+door-left-brick 4 0 91 0
+23
+brickwall-thin 6 2 0
+brickwall-thin 6 4 0
+brickwall-thin 6 6 0
+brickwall-thin 6 8 0
+brickwall-thin 13 2 0
+brickwall-thin 13 4 0
+brickwall-thin 13 6 0
+brickwall-thin 13 8 0
+grid2 7 9 0
+grid2 9 9 0
+grid2 11 9 0
+grid2 2 7 0
+grid2 4 7 0
+stool 2 13 0
+stool 2 15 0
+spikes 14 8 0
+spikes 16 8 0
+tall-crate 14 6 0
+tall-crate 16 6 0
+crate 14 4 0
+snake 4 11 0 0 0
+skeleton-ne 8 2 0
+switch 16 2 0

@@ -1,0 +1,32 @@
+16 3 16 16
+white_tiles_border
+white_stone
+5
+door-gothic-se 8 0 83 1
+door-gothic-sw 8 0 85 0
+door-gothic-ne 8 0 86 0
+door-gothic-nw 12 0 87 0
+door-gothic-nw 6 0 88 0
+22
+column 2 2 0
+column 2 17 0
+column 17 2 0
+column 17 17 0
+suit-of-armor-nw 2 3 0
+suit-of-armor-nw 2 15 0
+banner-ne 7 1 0
+banner-ne 13 1 0
+dining-table-1 10 12 0
+dining-table-middle 10 10 0
+dining-table-middle 10 8 0
+dining-table-2 10 6 0
+chair-ne 10 4 0
+chair-sw 10 15 0
+clock-right 4 2 0
+column 6 5 0
+column 6 8 0
+column 6 11 0
+column 6 14 0
+column 6 17 0
+door-vampire4 1 6 0
+chest-cutlery 17 14 0

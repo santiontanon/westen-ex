@@ -1,0 +1,15 @@
+14 5 12 6
+blue_tiles_border
+victorian-tiles
+1
+door-victorian-tiles-ne 7 0 65 1
+9
+sink 2 5 0
+shelves-nw 2 2 0
+barrel 5 2 0
+barrel 6 2 0
+stool 6 7 0
+crate 10 6 0
+crate 12 6 0
+crate 12 6 9
+crate 12 4 0

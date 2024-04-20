@@ -1,0 +1,29 @@
+16 4 12 12
+wood
+victorian
+3
+door-wood-se 8 0 64 0
+door-wood-sw 6 0 66 0
+door-empty-ne 255 4 67 0
+21
+window-ne 7 1 16
+stair-steps-right 2 2 24
+stair-steps-right 2 3 16
+stair-steps-right 2 4 8
+stair-steps-right 2 5 0
+stair-steps-rail 4 2 24
+stair-steps-rail 4 3 16
+stair-steps-rail 4 4 8
+stair-steps-rail 4 5 0
+couch 6 4 0
+couch 9 4 0
+table-1 6 8 0
+table-2 8 8 0
+night-table 12 2 0
+stool 4 12 0
+chest 12 13 0
+bookshelves-nw 2 10 0
+bookshelves-nw 2 12 0
+newspaper 13 2 16
+chest 2 2 0
+chest 3 2 0

@@ -1,0 +1,16 @@
+16 3 16 16
+street3
+no-wall
+4
+door-empty-sw 3 0 69 2
+door-empty-sw 7 0 69 3
+door-empty-sw 11 0 69 4
+door-empty-nw 14 0 72 0
+7
+watkins-column 5 13 0
+watkins-column 5 16 0
+watkins-sign 5 12 40
+watkins-door 4 14 0
+horsecar 7 8 0
+horse 8 4 0
+choffeur 10 11 0

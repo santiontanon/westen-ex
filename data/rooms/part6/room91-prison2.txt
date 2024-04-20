@@ -1,0 +1,30 @@
+16 3 16 16
+blue_tiles_border
+blue_bricks
+2
+door-se 4 0 90 1
+door-left-brick 14 0 92 0
+23
+brickwall 6 6 0
+brickwall 12 12 0
+brickwall 12 6 0
+brickwall 6 12 0
+grid2 2 12 0
+grid2 4 12 0
+grid2 14 6 0
+grid2 16 6 0
+grid 6 8 0
+grid 6 10 0
+grid 6 14 0
+grid 6 16 0
+grid 13 8 0
+grid 13 10 0
+column-blue 12 2 0
+column-blue 12 5 0
+column-blue 8 13 0
+column-blue 11 13 0
+switch 17 7 0
+arrow-shooter-x 1 4 8
+arrow-shooter-y 4 1 8
+arrow-shooter-y 9 1 8
+heart4 17 10 0

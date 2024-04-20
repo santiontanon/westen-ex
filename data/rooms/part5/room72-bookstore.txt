@@ -1,0 +1,19 @@
+16 5 12 12
+wood
+bookshelves
+1
+door-wood-se 8 0 71 3
+13
+bookshelves-store-nw 4 4 0
+bookshelves-store-nw 4 6 0
+bookshelves-store-nw-book 7 4 0
+bookshelves-store-nw 7 6 0
+bookshelves-store-nw 10 4 0
+bookshelves-store-nw 10 6 0
+stool 4 8 0
+stool 12 5 0
+stool 13 13 0
+bookstack-store 13 2 0
+bookstack-store 7 8 0
+bookstack-store 10 13 0
+bookstore-clerk 4 10 0

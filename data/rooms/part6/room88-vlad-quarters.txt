@@ -1,0 +1,28 @@
+14 5 12 10
+white_tiles_border
+white_stone
+1
+door-gothic-se 6 0 84 4
+22
+column 2 2 0
+column 2 11 0
+column 13 2 0
+column 13 11 0
+black-stairs-nw 4 6 0
+tall-black-brick 2 4 0
+tall-black-brick 2 6 0
+tall-black-brick 2 8 0
+coffin-1 2 7 14
+coffin-2 2 6 14
+vase 5 4 0
+vase 5 9 0
+banner-nw 1 4 16
+banner-nw 1 8 16
+desk-ne 8 2 0
+chair-sw 9 4 0
+chest 10 11 0
+chest 7 11 0
+vlad-diary 11 3 16
+red-carpet 3 6 255
+bookstack-vlad 6 3 0
+bookstack 12 4 0

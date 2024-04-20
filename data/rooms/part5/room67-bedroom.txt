@@ -1,0 +1,25 @@
+16 5 12 12
+wood
+victorian-blue
+2
+door-wood-nw 3 0 65 2
+door-wood-sw 6 0 68 0
+18
+window-ne 4 1 16
+window-ne 10 1 16
+bed-1 2 10 0
+bed-2 4 10 0
+chair-left 10 6 0
+writing-table-2 12 5 0
+writing-table-1 12 7 0
+night-table-nw 2 7 0
+chest 2 13 0
+chest 4 2 0
+carpet-2 4 4 255
+carpet-1 4 6 255
+bookstack-home 13 9 0
+bookstack-home 12 11 0
+bookstack-home 13 3 0
+bookstack-home 7 11 0
+luggage 5 13 0
+university-notes 13 6 14

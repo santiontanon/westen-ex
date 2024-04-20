@@ -1,0 +1,19 @@
+13 5 12 6
+blue_tiles_border
+ossuary_ne
+2
+door-se 4 0 40 2
+door-left-brick 4 0 81 0
+12
+column-blue 2 2 0
+sarcophagus 4 2 0
+sarcophagus 9 2 0
+column-blue 13 2 0
+column-blue 2 7 0
+sarcophagus 4 7 0
+sarcophagus 9 7 0
+column-blue 13 7 0
+red-carpet 1 4 255
+red-carpet 6 4 255
+torch 4 1 28
+torch 10 1 28
